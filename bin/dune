@@ -1,0 +1,4 @@
+(executable
+ (public_name console)
+ (name main)
+ (libraries console))
